@@ -10,8 +10,9 @@
 # Shared Screens (Teacher & Student)
 
 
-<img width="938" alt="image" src="https://github.com/user-attachments/assets/c565396a-1f35-47c6-9a92-040011717c47" />
+
 <img width="811" alt="image" src="https://github.com/user-attachments/assets/9a500e60-f6e0-4d3a-81c5-7e3b06909c19" />
+<img width="938" alt="image" src="https://github.com/user-attachments/assets/c565396a-1f35-47c6-9a92-040011717c47" />
 <img width="941" alt="image" src="https://github.com/user-attachments/assets/acb7a218-66c9-49e5-ac2f-d638b8dd5622" />
 
 
