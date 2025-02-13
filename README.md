@@ -40,13 +40,13 @@
 <img width="943" alt="image" src="https://github.com/user-attachments/assets/26daa818-7a59-4a91-a5bf-2c6fa13ec27f" />
 
 <img width="937" alt="image" src="https://github.com/user-attachments/assets/3519077f-72ce-4bc4-9f1b-bb418660f4fc" />
-<img width="925" alt="image" src="https://github.com/user-attachments/assets/864b1534-b9ab-47be-824e-f46cd59cf939" />
 
 
 
 # Teacher Panel
 
-<img width="931" alt="image" src="https://github.com/user-attachments/assets/fff6fd3a-7a2d-4a54-ae61-e4bc0ab8c1d8" />
-<img width="933" alt="image" src="https://github.com/user-attachments/assets/80114fcf-381e-49d4-9358-148f453b4948" />
+<img width="939" alt="image" src="https://github.com/user-attachments/assets/48ebada3-ffc3-4d1e-8e20-548561f87896" />
+
+<img width="936" alt="image" src="https://github.com/user-attachments/assets/2e671ec6-2429-4cac-9455-3645f326d159" />
 
 
