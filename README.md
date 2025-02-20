@@ -1,8 +1,8 @@
 # Features
-✅ Admin Panel – Register students, teachers, and manage class details, and school Events.
+✅ Admin Panel – Register students, teachers, and manage class details, including results, and school Events.
 ✅ Automated Account Creation – Students and teachers receive login credentials upon registration.
-✅ Teacher Panel – Add notes and assignments for assigned subjects, View School Events.
-✅ Student Panel – View subjects and access related study materials, View School Events, and class TimeTable.
+✅ Teacher Panel – Add notes and assignments for assigned subjects, View School Events, submit exam results.
+✅ Student Panel – View subjects and access related study materials, View School Events, and class TimeTable, and view exam results.
 ✅ Secure Authentication – User login and role-based access control.
 
 
