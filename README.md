@@ -22,10 +22,9 @@
 # Admin Panel
 
 <img width="948" alt="image" src="https://github.com/user-attachments/assets/210d7638-feed-44cc-a781-d617b0f11bf8" />
-
 <img width="947" alt="image" src="https://github.com/user-attachments/assets/15ba324f-843e-4b41-b5cc-693760cf146c" />
 <img width="947" alt="image" src="https://github.com/user-attachments/assets/de7c278f-d6d1-4257-aa0e-dad74fada7e3" />
-<img width="949" alt="image" src="https://github.com/user-attachments/assets/1ba21ea3-a234-4326-a91b-056fe794acc0" />
+<img width="949" alt="image" src="https://github.com/user-attachments/assets/4959201e-27a1-47ef-a144-f7596a64e1c2" />
 <img width="951" alt="image" src="https://github.com/user-attachments/assets/40f64c5f-1e10-4fd0-906a-c74f27a1e671" />
 <img width="949" alt="image" src="https://github.com/user-attachments/assets/232fef0a-b13b-4059-af74-4da063878c52" />
 
