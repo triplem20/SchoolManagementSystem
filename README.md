@@ -46,8 +46,9 @@
 
 # Teacher Panel
 
-<img width="939" alt="image" src="https://github.com/user-attachments/assets/48ebada3-ffc3-4d1e-8e20-548561f87896" />
+<img width="938" alt="image" src="https://github.com/user-attachments/assets/893b4aac-fb6a-433d-ba8f-0daf26fa68f5" />
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/7b1d4c46-ca2d-425d-9caf-9afd9f778ee7" />
 
-<img width="936" alt="image" src="https://github.com/user-attachments/assets/2e671ec6-2429-4cac-9455-3645f326d159" />
+
 
 
