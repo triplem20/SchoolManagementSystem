@@ -37,10 +37,12 @@
 
 # Student Panel
 
-<img width="938" alt="image" src="https://github.com/user-attachments/assets/edf84661-724f-44a8-8c1a-bd1c5b84c1f7" />
-<img width="943" alt="image" src="https://github.com/user-attachments/assets/26daa818-7a59-4a91-a5bf-2c6fa13ec27f" />
+<img width="940" alt="image" src="https://github.com/user-attachments/assets/c88704ac-4fae-4d2c-a94f-26324b1fe95b" />
+<img width="942" alt="image" src="https://github.com/user-attachments/assets/2d03c638-b7d1-403c-8967-8d181cae82bb" />
+<img width="943" alt="image" src="https://github.com/user-attachments/assets/05fe33c3-36b1-4412-bdb3-9ebd89533c7d" />
+<img width="943" alt="image" src="https://github.com/user-attachments/assets/d80e4fba-978c-4070-aeab-d66d1f7267fe" />
 
-<img width="937" alt="image" src="https://github.com/user-attachments/assets/3519077f-72ce-4bc4-9f1b-bb418660f4fc" />
+
 
 
 
