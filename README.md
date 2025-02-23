@@ -1,5 +1,5 @@
 # Features
-✅ Admin Panel – Register students, teachers, and manage class details, including results, and school Events.
+✅ Admin Panel – Register students, teachers, and manage class details, Subjects, teachers,results, and school Events.
 
 ✅ Automated Account Creation – Students and teachers receive login credentials upon registration.
 
