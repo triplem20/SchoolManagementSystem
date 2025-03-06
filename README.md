@@ -3,9 +3,9 @@
 
 ✅ Automated Account Creation – Students and teachers receive login credentials upon registration.
 
-✅ Teacher Panel – Add notes and assignments for assigned subjects, View School Events, submit exam results to School Admin.
+✅ Teacher Panel – Add notes and assignments for assigned subjects, View School Events, submit exam results to School Admin, and view Assignment Submissions.
 
-✅ Student Panel – View subjects and access related study materials, View School Events, and class TimeTable, and view exam results.
+✅ Student Panel – View subjects and access related study materials, View School Events, and class TimeTable, and view exam results, and Submit Subject Assignments.
 
 ✅ Secure Authentication – User login and role-based access control.
 
