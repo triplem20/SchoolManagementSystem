@@ -7,7 +7,20 @@
 
 ✅ Student Panel – View subjects and access related study materials, View School Events, and class TimeTable, and view exam results, and Submit Subject Assignments.
 
+✅Student Promotion & Status Update for New Academic Year
+At the start of a new academic year, the system automatically processes the results of each student and promotes them to the next grade based on their academic performance. The students' status is set to Pending Registration, indicating they need to complete the registration process for the new year. Their status will remain Pending until they register.
+
+Key Features:
+
+Automatic Student Promotion: The system checks the academic performance of each student and promotes them to the next grade at the start of a new academic year.
+
+Status Change to Pending Registration: Upon promotion, students' status is updated to Pending Registration until they complete the registration process for the new academic year.
+
+Registration Requirement: Students must complete their registration for the new year, and only after that will their status change to Registered.
+
 ✅ Secure Authentication – User login and role-based access control.
+
+
 
 
 
