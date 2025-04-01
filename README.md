@@ -43,7 +43,7 @@ Registration Requirement: Students must complete their registration for the new 
 <img width="950" alt="image" src="https://github.com/user-attachments/assets/553214c0-d81d-40c5-9e53-f416271e84d6" />
 <img width="948" alt="image" src="https://github.com/user-attachments/assets/579e680a-a27f-4871-9227-7ca31198c41b" />
 <img width="952" alt="image" src="https://github.com/user-attachments/assets/e6a6a855-f42f-4b23-a389-14fa14256c0d" />
-<img width="941" alt="image" src="https://github.com/user-attachments/assets/37b17255-1783-4829-abb0-a457eeb4ff82" />
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/a2a39509-be34-41d2-8f81-4d2a92c3193c" />
 <img width="953" alt="image" src="https://github.com/user-attachments/assets/8c29e473-5465-4ed1-ad94-008a4584f60a" />
 <img width="949" alt="image" src="https://github.com/user-attachments/assets/e2fc0b6c-23ac-4475-9c16-3b4f53818f00" />
 <img width="952" alt="image" src="https://github.com/user-attachments/assets/4739a2e5-e0e2-4bcf-898b-665baac3408a" />
